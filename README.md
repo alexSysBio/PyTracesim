@@ -1,4 +1,4 @@
-## PyrticleSim ## :8ball:
+## PyrticleSim :8ball: ##
 
 
 
